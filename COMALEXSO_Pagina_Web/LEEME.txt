@@ -1,0 +1,20 @@
+COMALEXSO INGENIERÍA S.R.L. — PÁGINA WEB ACTUALIZADA
+
+SECCIONES ELIMINADAS
+- Experiencia institucional.
+- Proyectos destacados / Galería técnica editable.
+- Software y herramientas / Precisión, eficiencia y trazabilidad.
+
+TAMBIÉN SE ELIMINARON
+- Enlaces de “Proyectos” y “Experiencia” del menú principal.
+- Enlaces correspondientes del pie de página.
+- Código de filtros de proyectos que ya no era necesario.
+- Estilos exclusivos de las secciones eliminadas.
+
+DATOS DE CONTACTO CONSERVADOS
+- Correo: comalexso2025@gmail.com
+- Dirección: Villa Clotilde, Sacaba, Cochabamba, Bolivia
+- WhatsApp: +591 69234365 y +591 74813166
+
+ARCHIVO PRINCIPAL
+- index.html

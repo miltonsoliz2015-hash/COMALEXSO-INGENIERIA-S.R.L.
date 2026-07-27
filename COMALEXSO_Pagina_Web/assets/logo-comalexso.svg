@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 92" role="img" aria-labelledby="title desc">
+<title id="title">COMALEXSO Ingeniería S.R.L.</title>
+<desc id="desc">Logotipo corporativo con símbolo estructural y nombre de la empresa.</desc>
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#082B4C"/>
+    <stop offset="1" stop-color="#2E6F91"/>
+  </linearGradient>
+</defs>
+<rect width="86" height="86" x="3" y="3" rx="20" fill="url(#g)"/>
+<path d="M18 65 38 24l11 22 9-15 16 34" fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M17 66h56" fill="none" stroke="#55B779" stroke-width="6" stroke-linecap="round"/>
+<path d="M108 25h12l10 11 10-11h12l-16 18 17 20h-12l-11-13-11 13h-12l17-20z" fill="#082B4C"/>
+<text x="106" y="55" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="800" fill="#082B4C">COMALEXSO</text>
+<text x="108" y="76" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#557083">INGENIERÍA S.R.L.</text>
+</svg>
